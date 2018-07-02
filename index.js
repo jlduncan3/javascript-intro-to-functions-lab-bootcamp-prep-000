@@ -23,11 +23,11 @@ function sayHiToGrandma(string)
   var upper = string.toUpperCase
   var lower = string.toLowerCase
   
-  if (string == upper)
+  if (string == lower)
   {
     return "I can't hear you!"
   }
-  else if (string == lower)
+  else if (string == upper)
   {
     return "YES INDEED!"
   }
