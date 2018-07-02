@@ -17,3 +17,14 @@ function logWhisper(string)
 {
   console.log(string.toLowerCase())
 }
+
+function sayHiToGrandma(string)
+{
+  var upper = string.toUpperCase
+  var lower = string.toLowerCase
+  
+  if (string == upper)
+  {
+    
+  }
+}
