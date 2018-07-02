@@ -29,7 +29,7 @@ function sayHiToGrandma(string)
   }
   else if (string == lower)
   {
-    return "YES, INDEED!"
+    return "YES INDEED!"
   }
   else if (string == "I love you, Grandma.")
   {
